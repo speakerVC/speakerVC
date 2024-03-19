@@ -81,6 +81,7 @@ li:first-of-type {
 }
 
 a {
+    font-size: 20px;
     color: rgb(68, 128, 200)
 }
 
